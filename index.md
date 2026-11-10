@@ -1,7 +1,9 @@
 Name: Hansel Puthenparambil
+
 Email: hputhenparambil@ucsd.edu
 
 Section: D13 Analysis of high-dimensional neural data
+
 Mentor: Mikio Aoi
 
 What is the most interesting topic covered in your domain this quarter?
